@@ -1,0 +1,24 @@
+{
+  "name": "Campus Complaint Portal",
+  "short_name": "Campus CP",
+  "description": "Submit and track campus complaints",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060614",
+  "theme_color": "#0a0a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
